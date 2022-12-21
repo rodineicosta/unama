@@ -1,5 +1,3 @@
-package biosphere;
-
 import java.util.Random;
 
 public class Sensors {
@@ -24,7 +22,7 @@ public class Sensors {
      * Set the array column.
      * @param column The column.
      */
-    public static void setColumn(int column) {
+    protected static void setColumn(int column) {
         Sensors.column = column;
     }
 
@@ -40,7 +38,7 @@ public class Sensors {
      * Set the pseudorandom numbers.
      * @param range The pseudorandom numbers.
      */
-    public static void setRange(int range) {
+    protected static void setRange(int range) {
         Sensors.range = range;
     }
 

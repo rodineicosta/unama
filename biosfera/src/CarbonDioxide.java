@@ -1,5 +1,3 @@
-package biosphere;
-
 public class CarbonDioxide extends Sensors {
 
     /**

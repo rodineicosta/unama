@@ -6,8 +6,6 @@
  * Matrícula:  04115356
  * Data:       15/12/2022
  */
-package biosphere;
-
 import java.io.IOException;
 
 public class Biosphere {
